@@ -1,0 +1,40 @@
+/* Contacts CSS */
+/* navigation styling */
+.nav {
+  background-color: rgb(40, 7, 129);
+  height: 2rem;
+  font-size: 0.8rem;
+}
+
+.nav-link {
+  color: hotpink;
+
+}
+
+.active {
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgba(40, 7, 129, 0.911);
+  color: hotpink
+}
+
+
+
+
+h2 {
+  text-align: center;
+  margin-top: 10px;
+  /* font-weight: bold; */
+  color: hotpink
+}
+
+
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

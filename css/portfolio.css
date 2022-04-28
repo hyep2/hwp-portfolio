@@ -1,0 +1,70 @@
+/* navigation styling */
+.nav {
+  background-color: rgb(40, 7, 129);
+  height: 2rem;
+  font-size: 0.8rem;
+}
+
+.nav-link {
+  color: hotpink;
+
+}
+
+.active {
+  font-weight: bold;
+}
+
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgba(40, 7, 129, 0.911);
+}
+
+h2 {
+  text-align: center;
+  margin-top: 10px;
+  color: hotpink;
+}
+
+
+
+/* floating for images */
+.float-left {
+  float: left;
+  margin-right: 25px;
+  height: 200px
+}
+
+.float-right {
+  float: right;
+  margin-left: 25px;
+}
+
+button {
+  font-weight: bold;
+}
+
+h5 {
+  margin-top: 10px;
+}
+
+img {
+  height: 25rem;
+}
+
+.card-text {
+  height: 18rem;
+}
+
+.col {
+  padding: 1rem;
+  margin: 0rem;
+  border: 0px;
+  
+}
+.card {
+  border-radius: 2rem;
+  -webkit-border-radius: 2rem;
+  -moz-border-radius: 2rem;
+  -ms-border-radius: 2rem;
+  -o-border-radius: 2rem;
+}
